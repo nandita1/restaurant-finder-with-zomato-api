@@ -1,0 +1,17 @@
+body {
+  background-color: #f5f5f5;
+  color: #2d2d2d;
+}
+
+.redbtn {
+  background-color: #cb202d;
+  color: white;
+}
+
+.feedback {
+  display: none;
+}
+
+.card {
+  height: 450px;
+}
